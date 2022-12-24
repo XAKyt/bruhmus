@@ -1,0 +1,54 @@
+html {
+    background: url(https://img.freepik.com/free-vector/modern-pink-geometric-shapes-background_1035-19106.jpg?auto=format&h=200);
+    background-size: cover ;
+    background-repeat: no-repeat;
+body {
+    margin:0
+}
+}
+h1 {
+    color: #fdfdff;
+    text-align: center;
+    font-size: 50px;
+    font-style: bold;
+    font-family: Verdana;
+    text-transform: uppercase;
+    background-color: #1b1725;
+    margin-top: 0;
+}
+h2 {
+    color: #ff4000;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-family: Verdana;
+    text-transform: capitalize;
+    text-decoration: underline;
+    margin-bottom: 30px;
+}
+div {
+    color: black;
+    text-align:center;
+    font-family: Verdana;
+    font-style: italic;
+    text-transform: capitalize
+}
+p {
+    color: black;
+    text-align: center;
+    font-family: Verdana;
+    font-style: normal;
+    font-size: 20px;
+    text-transform: capitalize
+}
+img {
+    position: relative;
+    left:550px
+}
+#bottom {
+    text-align: center;
+    font-weight: 600;
+    background-color: #a499b3;
+    line-height: 40px;
+    margin: 20px
+}
